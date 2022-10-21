@@ -1,11 +1,8 @@
-# Sales_Predictions Data Report
+# UFO Data Report
 Cameron Bannick
 # Issue Adressed
-The goal was to provide some insight as to how much money we were making from each item and maximize on those insights.
+Can we, with the data provided, predict shapes of ufos based on various features
 # Data Provided
-Data provided gave us eavh item with its retail price, type of food, market type, visibility to find possible insights. 
+We were given a data set with a myriad of features and ended up only using DateTime, Shape, City longitude and latitude, state, month name, and day of the week.m
 # Results 
-First Visualization showed the Median of each items profits was 2000 dollars
-Unfortunately the heatmap did not show us many correlations to anything 
-I ran two models, one Linear Regression and one Bagged Tree and the Bagged Tree was the best option due to the better R2 score. However both models had a high MSE. My reccomendation would be to collect an expanded Data Set and see if more Data would improve on our error.
-
+If we wish to move forward on this project I will recommend the KNN model with the higher accuracy. However, all models performed poorly. I truly do believe we would have had better results if we kept the 'Duration' feature. The reason we could not is because the the large range of unique values that were not even numbers (ie 'CELLPHONE) my reccomendation is to run this model again with a cleaner duration feature and run the models again. Which I can do upon approval.
