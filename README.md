@@ -10,4 +10,10 @@ Now, this is assuming of course that all these sightings are verified to a certa
 # The Models
 We created 2 versions of 3 different models in order to see how well we could predict the shape of the ufo given the Day, Month, Longitude, Lattitude, Year, and State. As stated earlier, the loss of the Duration feature will be a big loss to out overall predictions. In addition, we didn't have an equal amount of shapes to train our models with as the overwhelming majority of sights were descrived mearly as 'light'
 Model 1 was only able to predict 21 percent of our sightings accurately and after some tweaking we got it to 22%. 
-Model 2 came back at only 13 percent and after some adjustments we got it to 
+Model 2 came back at only 13 percent and after some adjustments we got it to 15 percent
+Model 3 was stuck at 21 percent despite making some adjustments
+
+The adjuststed Model 1 would seem to be the best performing.
+
+# Reccomendations
+If we had to choose a model, I would reccomend number one. It has the best chance of accurately predicting the shape. However, I would like to train the models with more data provided by the US Air Force and Navy. I also do think its worth going back and getting better 'duration' values in order to make better predictions in the future.
