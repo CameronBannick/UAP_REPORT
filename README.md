@@ -9,7 +9,7 @@ Our data was provided by kaggle and gave us a certain amount of sightings over t
  The most common UFO shape seems to come as a blinding light follwed by a circle. However, there are a few values that could possibly overlap (Light/Fireball and Circle/Sphere). 
 ![image](https://github.com/CameronBannick/Ufo_Report/blob/main/Data%20visuals/Number%20of%20sightings%20by%20month.jpg)
 The trend for UFO sightings by month seems to be slow in the winter months while thy start increasing as it gets warmer. However, it could be possible there are other factors such as clearer skies, more people outside looking to the sky, ect. 
-![image](![image](https://github.com/CameronBannick/Ufo_Report/blob/main/Data%20visuals/Number%20of%20sightings%20by%20month.jpg))
+![image](https://github.com/CameronBannick/Ufo_Report/blob/main/Data%20visuals/Number%20of%20sightings%20by%20month.jpg)
 Assuming all of these shapes and sightings has been verified, the above visual is interesting because of the lack of structure. There are different types of crafts, assumingly for different purposes. But, what we see is no order or pattern, shapes are just randomnly spread out. Meaning, it is possible there a two or more culprits behind these phenomena of crafts. 
 
 # The Models
